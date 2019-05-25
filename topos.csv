@@ -1,11 +1,11 @@
 population rank 2018,city,state,estimate_2017,census_2010,change,landAreaMile_2016,landAreakm2_2016,populationDensityMile_2016,populationDensityKm2_2016,latitude,longitude,white,africanAmerican,hispanic,asian,Mayor Name,Time Zone,Violent Crime,propertyCrime,house price,per capita income,recreational Cannabis,life expectancy,Unemployment  Rank,Educational Rank
-1,New York City,NewYork,8398748,8175133,274,3015,7809,28317,10933,40.6635N,73.9387W,44,25.5,28.6,12.7,Bill de Blasio (D),UTC-05:00 (EST),538.9,1448.59,"410,000",68800,decriminalizedunlessopentopublicview,80.5,205,40
-2,Los Angeles,California,3990456,3792621,522,4687,12139,8484,3276,34.0194N,118.4108W,28.7,9.6,48.5,11.3,Eric Garcetti (D),UTC-08:00 (Pacific),761.31,2535.92,"634,000",66600,legal,80.8,232,2
-3,Chicago,Illinois,2705994,2695598,39,2273,5887,11900,4600,41.8376N,87.6818W,44.9,32.9,28.9,5.5,Lori Lightfoot (D),UTC-06:00 (Central),1098.86,3263.8,"215,000",63800,decriminalizedcivilinfraction,79,232,30
-4,Houston,Texas,2325502,2100263,1072,6375,16511,3613,1395,29.7866N,95.3909W,0,25.7,43.7,6,Sylvester Turner (D),UTC-6 (CST),1095.23,4128.41,"178,000",71900,IllegalCiteandReleaseinHoustonDallasandAustinresidentsofTravisCounty,78.5,165,49
-5,Phoenix,Arizona,1660272,1445632,1485,5176,13406,3120,1200,33.5722N,112.0901W,92.3,6.5,0,0.8,Kate Gallego,UTC-7 (MST (no DST)),760.93,3670.71,"252,000",64200,Illegal,79.6,232,36
-6,Philadelphia,Pennsylvania,1584138,1526006,381,1342,3476,11683,4511,40.0094N,75.1333W,0,6.9,63.2,2.4,Jim Kenney (D),UTC-5 (EST),947.58,3063.48,"205,000",63900,illegal,78.5,165,23
-7,San Antonio,Texas,1532233,1327407,1543,4610,11940,3238,1250,29.4724N,98.5251W,72.6,0,28.8,15.9,Ron Nirenberg (I),UTC-6 (CST),707.5,4844.84,"153,000",58400,IllegalCiteandReleaseinHoustonDallasandAustinresidentsofTravisCounty,78.5,67,49
-8,San Diego,California,1425976,1307402,907,3252,8423,4325,1670,32.8153N,117.1350W,58.9,6.7,0,2.9,Kevin Faulconer (R),UTC-8 (Pacific),366.61,1842.97,"545,000",67900,legal,80.8,165,2
-9,Dallas,Texas,1345047,1197816,1229,3409,8829,3866,1493,32.7933N,96.7665W,50.7,24.7,42.4,0,Mike Rawlings (D),UTC-6 (Central),774.64,3185.09,"195,000",66300,IllegalCiteandReleaseinHoustonDallasandAustinresidentsofTravisCounty,78.5,95,49
-10,San Jose,California,1030119,945942,890,1775,4597,5777,2231,37.2967N,121.8189W,42.8,3.2,33.2,32,Sam Liccardo,UTC-8 (Pacific Time Zone),403.65,2440.7,"1,100,000",99600,legal,80.8,49,2
+1,New York City,NewYork,8398748,8175133,274,3015,7809,28317,10933,40.6635N,73.9387W,44.0,25.5,28.6,12.7,Bill de Blasio (D),UTC-05:00 (EST),538.90,1448.59,410000,68800,decriminalized,80.5,205,40
+2,Los Angeles,California,3990456,3792621,522,4687,12139,8484,3276,34.0194N,118.4108W,28.7,9.6,48.5,11.3,Eric Garcetti (D),UTC-08:00 (Pacific),761.31,2535.92,634000,66600,legal,80.8,232,2
+3,Chicago,Illinois,2705994,2695598,039,2273,5887,11900,4600,41.8376N,87.6818W,44.9,32.9,28.9,5.5,Lori Lightfoot (D),UTC-06:00 (Central),1098.86,3263.80,215000,63800,decriminalized,79.0,232,30
+4,Houston,Texas,2325502,2100263,1072,6375,16511,3613,1395,29.7866N,95.3909W,0,25.7,43.7,6.0,Sylvester Turner (D),UTC-6 (CST),1095.23,4128.41,178000,71900,Illegal,78.5,165,49
+5,Phoenix,Arizona,1660272,1445632,1485,5176,13406,3120,1200,33.5722N,112.0901W,92.3,6.5,0,0.8,Kate Gallego,UTC-7 (MST (no DST)),760.93,3670.71,252000,64200,Illegal,79.6,232,36
+6,Philadelphia,Pennsylvania,1584138,1526006,381,1342,3476,11683,4511,40.0094N,75.1333W,0,6.9,63.2,2.4,Jim Kenney (D),UTC-5 (EST),947.58,3063.48,205000,63900,illegal,78.5,165,23
+7,San Antonio,Texas,1532233,1327407,1543,4610,11940,3238,1250,29.4724N,98.5251W,72.6,0,28.8,15.9,Ron Nirenberg (I),UTC-6 (CST),707.50,4844.84,153000,58400,Illegal,78.5,67,49
+8,San Diego,California,1425976,1307402,907,3252,8423,4325,1670,32.8153N,117.1350W,58.9,6.7,0,2.9,Kevin Faulconer (R),UTC-8 (Pacific),366.61,1842.97,545000,67900,legal,80.8,165,2
+9,Dallas,Texas,1345047,1197816,1229,3409,8829,3866,1493,32.7933N,96.7665W,50.7,24.7,42.4,0,Mike Rawlings (D),UTC-6 (Central),774.64,3185.09,195000,66300,Illegal,78.5,95,49
+10,San Jose,California,1030119,945942,890,1775,4597,5777,2231,37.2967N,121.8189W,42.8,3.2,33.2,32.0,Sam Liccardo,UTC-8 (Pacific Time Zone),403.65,2440.70,1100000,99600,legal,80.8,49,2
