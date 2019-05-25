@@ -10,34 +10,43 @@ Housing prices and per capita income can be major determinants of livability in 
 
 In conclusion, I have tried to create a comprehensive dataset to diagnose the livability of a city. 
 
+### Replication of the results
+1. Make sure that **jupyter note book** is installed in the machine where the program is run <br />
+2. The following packages are required to be installed before running the program : <br />
+  **bs4** - pip install bs4 <br />
+  **requests** - pip install requests <br />
+  **pandas** - pip install pandas <br />
+  **re** - pip install re <br />
+  
+
 
 ### Variables:<br />
-•	population rank 2018: The city rank by population as of July 1, 2018, as estimated by the United States Census Bureau <br />
-•	city: The city name <br />
-•	state: The name of the state in which the city lies <br />
-•	estimate_2017: The city population as of July 1, 2018, as estimated by the United States Census Bureau <br />
-•	census_2010: The city population as of April 1, 2010, as enumerated by the 2010 United States Census  <br />
-•	change: The city percent population change from April 1, 2010, to July 1, 2018 <br />
-•	landAreaMile_2016: The city land area as of January 1, 2016 in sqm <br />
-•	landAreakm2_2016: The city land area as of January 1, 2016 in km2 <br />
-•	populationDensityMile_2016: The city population density as of July 1, 2016 (residents per unit of land area) per sqm <br />
-•	populationDensityKm2_2016: The city population density as of July 1, 2016 (residents per unit of land area) per km2 <br />
-•	latitude: The latitude of the city <br />
-•	longitude: The longitude of the city <br />
-•	white: Racial composition of the city  <br />
-•	African American: Racial composition of the city <br />
-•	Hispanic: Racial composition of the city <br />
-•	Asian: Racial composition of the city <br />
-•	Mayor Name: The name of the mayor of the city( the party of the mayor is written inside the bracket) <br />
-•	Time Zone: The time zone the city is present in <br />
-•	Violent Crime: The number of Violent crimes reported per 100,000 people per year <br />
-•	Property Crime: The number of Violent crimes reported 100,000 people per year <br />	
-•	House price: The price of an average house in the city <br />
-•	per capita income: The avg per capita income of the people in the city <br />
-•	Recreational Cannabis: Legality of cannabis in the state <br />
-•	life expectancy: Life expectancy in years <br />
-•	Unemployment Rank: The rank of the state in terms of unemployment <br />
-•	Educational Rank: The rank of the state in terms of educational attainment <br />
+•	**population rank 2018**: The city rank by population as of July 1, 2018, as estimated by the United States Census Bureau <br />
+•	**city**: The city name <br />
+•	**state**: The name of the state in which the city lies <br />
+•	**estimate_2017**: The city population as of July 1, 2018, as estimated by the United States Census Bureau <br />
+•	**census_2010**: The city population as of April 1, 2010, as enumerated by the 2010 United States Census  <br />
+•	**change**: The city percent population change from April 1, 2010, to July 1, 2018 <br />
+•	**landAreaMile_2016**: The city land area as of January 1, 2016 in sqm <br />
+•	**landAreakm2_2016**: The city land area as of January 1, 2016 in km2 <br />
+•	**populationDensityMile_2016**: The city population density as of July 1, 2016 (residents per unit of land area) per sqm <br />
+•	**populationDensityKm2_2016**: The city population density as of July 1, 2016 (residents per unit of land area) per km2 <br />
+•	**latitude**: The latitude of the city <br />
+•	**longitude**: The longitude of the city <br />
+•	**white**: Racial composition of the city  <br />
+•	**African American**: Racial composition of the city <br />
+•	**Hispanic**: Racial composition of the city <br />
+•	**Asian**: Racial composition of the city <br />
+•	**Mayor Name**: The name of the mayor of the city( the party of the mayor is written inside the bracket) <br />
+•	**Time Zone**: The time zone the city is present in <br />
+•	**Violent Crime**: The number of Violent crimes reported per 100,000 people per year <br />
+•	**Property Crime**: The number of Violent crimes reported 100,000 people per year <br />	
+•	**House price**: The price of an average house in the city <br />
+•	**per capita income**: The avg per capita income of the people in the city <br />
+•	**Recreational Cannabis**: Legality of cannabis in the state <br />
+•	**life expectancy**: Life expectancy in years <br />
+•	**Unemployment Rank**: The rank of the state in terms of unemployment <br />
+•	**Educational Rank**: The rank of the state in terms of educational attainment <br />
 
 
 ### URL:
