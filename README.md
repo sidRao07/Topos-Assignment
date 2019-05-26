@@ -33,10 +33,10 @@ In conclusion, I have tried to create a comprehensive dataset to diagnose the li
 •	**populationDensityKm2_2016**: The city population density as of July 1, 2016 (residents per unit of land area) per km2 <br />
 •	**latitude**: The latitude of the city <br />
 •	**longitude**: The longitude of the city <br />
-•	**white**: Racial composition of the city  <br />
-•	**African American**: Racial composition of the city <br />
-•	**Hispanic**: Racial composition of the city <br />
-•	**Asian**: Racial composition of the city <br />
+•	**white**: Percenage of white population in the city  <br />
+•	**African American**: Percenage of African American population in the city <br />
+•	**Hispanic**: Percenage of Hispanic population in the city <br />
+•	**Asian**: Percenage of Asian population in the city <br />
 •	**Mayor Name**: The name of the mayor of the city( the party of the mayor is written inside the bracket) <br />
 •	**Time Zone**: The time zone the city is present in <br />
 •	**Violent Crime**: The number of Violent crimes reported per 100,000 people per year <br />
